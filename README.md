@@ -7,7 +7,7 @@ A 2-player game in which players play as either X or O, and take turns marking t
 
 - Clone this repository to your machine.
 
-- Open Terminal and navigate to this program's src directory.
+- Open Terminal and navigate to this program's `src` directory.
 
 ### Compiling & Running
 
